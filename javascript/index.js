@@ -9,10 +9,6 @@ canvas.height = 576;
 
 const player1 = new Player()
 
-
-
-// let bottom = y + height
-
 function animate() {
     window.requestAnimationFrame(animate)
 

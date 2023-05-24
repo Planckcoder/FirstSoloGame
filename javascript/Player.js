@@ -6,6 +6,11 @@ class Player {
         
         }
 
+        this.velocity = {
+            x:0,
+            y:0,
+        }
+
         this.width = 100
         this.height = 100
         this.sides = {
